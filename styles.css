@@ -1,0 +1,29 @@
+.container-fluid{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+   
+}
+.card-title, .card-body{
+    width:300px;
+    box-sizing: border-box;
+}
+h3{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.flex-container{
+    border:1px solid black;
+    border-radius: 4px;
+}
+#col-2{
+    margin-bottom:-40px;
+    padding: 10px;
+}
+.body{
+    background-color: aqua;
+}
